@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yso5VhE49RM=",
+  "success": true,
+  "projectFilePath": "D:\\documents\\Group5\\student\\sms\\sms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aimec\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\aimec\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
